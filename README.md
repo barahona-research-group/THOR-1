@@ -1,4 +1,4 @@
-# THOR: Time-Varying High-dimensional Ordinal Regression 
+# THOR: Time-Aware High-dimensional Ordinal Regression 
 
 [![Downloads](https://static.pepy.tech/badge/thorml)](https://pepy.tech/project/thorml)
 
