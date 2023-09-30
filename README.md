@@ -40,8 +40,8 @@ If you are using this package in your scientific work, we would appreciate citat
 
 Bibtex entry:
 ```
-@misc{wong2023dynamic,
-      title={Dynamic Feature Engineering and model selection methods for temporal tabular datasets with regime changes}, 
+@misc{wong2023online,
+      title={Online learning techniques for prediction of temporal tabular datasets with regime changes}, 
       author={Thomas Wong and Mauricio Barahona},
       year={2023},
       eprint={2301.00790},
