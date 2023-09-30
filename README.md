@@ -36,7 +36,7 @@ pip install thorml -r requirements.txt
 ## Citation
 If you are using this package in your scientific work, we would appreciate citations to the following preprint on arxiv.
 
-[Dynamic Feature Projection and model selection methods for temporal tabular datasets with regime changes](https://arxiv.org/abs/2301.00790)
+[Online learning techniques for prediction of temporal tabular datasets with regime changes](https://arxiv.org/abs/2301.00790)
 
 Bibtex entry:
 ```
